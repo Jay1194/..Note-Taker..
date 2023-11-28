@@ -12,6 +12,10 @@ A simple web application for taking and managing notes.
   - [Contributing](#contributing)
   - [License](#license)
 
+# Demo
+![Note Taker](https://github.com/Jay1194/..Note-Taker../assets/105843570/1453126a-5741-4f43-b759-9b9b8dafeee6)
+
+
 ## Description
 
 The Note Taker is a web application that allows users to create, view, and delete notes. It provides a convenient way to organize and manage your notes.
